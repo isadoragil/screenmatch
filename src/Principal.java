@@ -1,6 +1,5 @@
-import br.alura.screenmatch.modelos.Filme;
-import br.alura.screenmatch.modelos.Serie;
-import br.alura.screenmatch.modelos.Titulo;
+import br.com.alura.screenmatch.modelos.Filme;
+import br.com.alura.screenmatch.modelos.Serie;
 import br.com.alura.screenmatch.calculos.CalculadoraDeTempo;
 
 public class Principal {
